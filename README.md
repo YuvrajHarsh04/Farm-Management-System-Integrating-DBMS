@@ -53,9 +53,6 @@ npm start  # Start frontend
 python app.py  # Start backend (Modify based on your stack)
 ```
 
-## 📜 License
-This project is licensed under the **MIT License**.
-
 ---
 
 🎯 **Contributions are welcome!** Feel free to fork, submit issues, and make pull requests to improve the project.
